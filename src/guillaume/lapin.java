@@ -15,7 +15,7 @@ public class lapin {
     }
     
     public void scream (){
-        System.out.println("HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+        System.out.println("Vas chier salope !");
     }
 
     public int getAge() {
