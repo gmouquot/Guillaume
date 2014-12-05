@@ -9,9 +9,9 @@ public class Guillaume {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello world biatch");
+        System.out.println("On dit merci qui???");
         lapin lap;
-        lap = new lapin (82,"michel");
+        lap = new lapin (82,"Jacquie & Michel");
         int i = 0;
         while (i <= 10){
             lap.scream();
