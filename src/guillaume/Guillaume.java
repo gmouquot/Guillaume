@@ -9,7 +9,7 @@ public class Guillaume {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello world biatch");
+        System.out.println("Hello world biatches");
         lapin lap;
         lap = new lapin (82,"michel");
         int i = 0;
